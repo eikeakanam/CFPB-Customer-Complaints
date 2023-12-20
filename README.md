@@ -53,7 +53,7 @@ A pictorial overview of both report pages is displayed below:
 
 |Aggregate|Rate of Response|
 |----------|--------------|
-|![CFPBAggr](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/f8854285-3fd4-477f-9b06-e25f029479bd)|![CFPBRate](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/68724b20-548c-4215-a8ba-a4e42bdd1e3b)|
+|![CFPB222](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/bc53ab13-4686-463f-b98b-e0ac07a2ecca)|![CFPBRate](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/68724b20-548c-4215-a8ba-a4e42bdd1e3b)|
 
 ### Key Metrics
 
@@ -102,6 +102,9 @@ ___
 - While the rate of response to customers' complaints and satisfaction from solutions provided was impressive, emphasis should be placed on significantly improving services provided by Organizations particularly with Incorrect Information and Improper Use of customer's financial report. This will significantly reduce complaints from customers by as much as 50%
 - Organizations are also advised to pay more attention and device adequate and innovative solutions to specific products related to debt collection, credit reporting and repair, and personal consumer reports. As seen from the report, a large percentage of issues reported were related to these products.
 
+## RESOURCES: REPORT DOWNLOAD LINK
 
+- [CFPB Customer Complaints Report Power BI File](https://drive.google.com/file/d/1CGow_IfY2uDoNLxgGfH9IcFbgZVfB97u/view?usp=sharing)
+- [CFPB Customer Complaints Report File (.pdf)](https://drive.google.com/file/d/1XjIM7pEmXdwOaq--1IeIZwJuhMipAss9/view?usp=sharing)
 
 
