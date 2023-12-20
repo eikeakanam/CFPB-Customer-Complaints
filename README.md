@@ -59,3 +59,7 @@ A pictorial overview of both report pages is displayed below:
 
 There following are key metrics obtained from the dataset:
 
+- **Total Complaints**: There were Two million, Eight Hundred and Sixty Thousand (2.86 million) financial products and services related complaints reported by consumers as recorded by CFPB between the years 2020 - 2023 This was obtained by taking the count of valid records in the model using the Primary Key - Complaint ID. This can also be obtained using the DAX function COUNTROW against the table.
+- **Total Companies**: Complaints were reported by customers against approximately Five Thousand, Two Hundred and Ninety Five (5,295) between the year 2020 and 2023. This was obtained by taking a Unique count of the Company column from the dataset
+- **Unique Products and Issues**: There were Ninety Three (93) reported issues against Organizations across Fourteen (14) different products. These values were obtained by taking a Unique count of the 'Issue' and 'Product' columns respectively.
+- **Timely Response Rate**: A response rate of 98.74% was recorded. This represents the rate at which Organizations respond to customers' complaints promptly. A calculated measure was implemented using the DAX function by comparing the count of 'Yes' responses against the total records in the 'Timely Response' column.
