@@ -69,8 +69,26 @@ There following are key metrics obtained from the dataset:
 ![Stats11](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/eddc3d4e-171f-4080-993b-bccd1feff98a)
 
 ### KEY FINDINGS
+
 ### Complaints Aggregation
 
-- 
+- There's been a sharp increase in complaints from customers of about 40% over successive years from 2021 - 2023. This could indicate a steady decline in the quality of products and services provided by Organizations.
+- Equifax Inc, Transunion Holdings, and Experian Info Solutions accounts for approximately Sixty Seven percent (67%) of complaints reported by consumers over the years 2020 - 2023. 
+- The most reported issues by consumeres were Incorrect Info on your report, Improper Use of your report, Problem with a credit reporting company's investigation respectively. These issues represents approximately Seventy One percent (71%) of challenges experienced by customers of various Organizations across the years.
+- Customers encountered the most challenges with Credit reporting and repair, personal consumer reports and debt collection products and services respectively as these products were associated with approximately eighty two percent (82%) of complaints received from customers.
+- A significant percentage of complaints (approximately 42%) were directed at Organizations located in Texas, California, Georgia and Florida respectively
+
+![Com11](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/151084f1-0eff-4236-ac4f-d81c23d1148a)
+
+![com12](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/628338bc-fae4-497f-9548-60cd18381f8b)
+
+- Fewer complaints were received over the weekend (Saturday and Sunday) in comparison to Weekdays with the most complaints reported on Wednesday, Tuesday and Thursday respectively. 
+- Most Organizations provided prompt responses to customers' complaints with an impressive response rate well above 98% reported by customers.
+- Over Ninety Five percent (95%) of customers indicated their satisfaction with solutions provided by Organizations in the aftermath of their complaints.
+- The web remains the most utilized medium for customers to express their dissatisfaction with services provided by financial Organizations.
+
+![com113](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/1fc6ea89-9621-43df-a042-a678882ee631)
+
+
 
 
