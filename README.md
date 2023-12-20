@@ -87,6 +87,15 @@ There following are key metrics obtained from the dataset:
 
 ![com113](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/1fc6ea89-9621-43df-a042-a678882ee631)
 
+## 4. Pubish Report and Creation of Dashboard
+
+The CFPB Consumer Complaints Report was published to my Workspace on Power BI Service from the Power BI Desktop. 
+
+Subsequently,  a dashboard was created under my workspace on Power BI Service by pinning visuals from the report as seen in the image below.
+
+![CFPB111](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/cbcd720e-f5e5-4b00-aaec-1c0073be68ea)
+
+
 ## Conclusion and Recommendation
 ___
 - Beyond resolving issues, Complaints reported by customers help Organizations gain important knowledge about their customers, business, competitors, Industry at large and other external stakeholders. They should therefore be seen as significant opportunities to improve their products and services, enhance customer experience and patronage which in the long run helpts to achieve Organizations goals and objectives.
