@@ -63,3 +63,14 @@ There following are key metrics obtained from the dataset:
 - **Total Companies**: Complaints were reported by customers against approximately Five Thousand, Two Hundred and Ninety Five (5,295) between the year 2020 and 2023. This was obtained by taking a Unique count of the Company column from the dataset
 - **Unique Products and Issues**: There were Ninety Three (93) reported issues against Organizations across Fourteen (14) different products. These values were obtained by taking a Unique count of the 'Issue' and 'Product' columns respectively.
 - **Timely Response Rate**: A response rate of 98.74% was recorded. This represents the rate at which Organizations respond to customers' complaints promptly. A calculated measure was implemented using the DAX function by comparing the count of 'Yes' responses against the total records in the 'Timely Response' column.
+- **Dispute Rate**: The dispute rate is 3.42% indicating a low level of dispute between consumers and Organizations upon successful resolution of customer complaints.
+- **Resolution Rate**: The resolution rate is 96.85%, this indicates a high level of resolution by Organizations for complaints reported by consumers.
+
+![Stats11](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/eddc3d4e-171f-4080-993b-bccd1feff98a)
+
+### KEY FINDINGS
+### Complaints Aggregation
+
+- 
+
+
