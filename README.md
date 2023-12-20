@@ -50,3 +50,8 @@ The Complaints Aggregation page provides detailed analysis and information about
 The Response Rate report mainly focuses on the timing or length of bike rides by cyclist in the year 2022. Each page contains a slicer which enables users filter reports by year. 
 
 A pictorial overview of both report pages is displayed below:
+
+|Aggregate|Rate of Response|
+|----------|--------------|
+|![CFPBAggr](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/f8854285-3fd4-477f-9b06-e25f029479bd)|![CFPBRate](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/68724b20-548c-4215-a8ba-a4e42bdd1e3b)|
+
