@@ -70,8 +70,6 @@ There following are key metrics obtained from the dataset:
 
 ### KEY FINDINGS
 
-### Complaints Aggregation
-
 - There's been a sharp increase in complaints from customers of about 40% over successive years from 2021 - 2023. This could indicate a steady decline in the quality of products and services provided by Organizations.
 - Equifax Inc, Transunion Holdings, and Experian Info Solutions accounts for approximately Sixty Seven percent (67%) of complaints reported by consumers over the years 2020 - 2023. 
 - The most reported issues by consumeres were Incorrect Info on your report, Improper Use of your report, Problem with a credit reporting company's investigation respectively. These issues represents approximately Seventy One percent (71%) of challenges experienced by customers of various Organizations across the years.
@@ -88,6 +86,12 @@ There following are key metrics obtained from the dataset:
 - The web remains the most utilized medium for customers to express their dissatisfaction with services provided by financial Organizations.
 
 ![com113](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/1fc6ea89-9621-43df-a042-a678882ee631)
+
+## Conclusion and Recommendation
+___
+- Beyond resolving issues, Complaints reported by customers help Organizations gain important knowledge about their customers, business, competitors, Industry at large and other external stakeholders. They should therefore be seen as significant opportunities to improve their products and services, enhance customer experience and patronage which in the long run helpts to achieve Organizations goals and objectives.
+- While the rate of response to customers' complaints and satisfaction from solutions provided was impressive, emphasis should be placed on significantly improving services provided by Organizations particularly with Incorrect Information and Improper Use of customer's financial report. This will significantly reduce complaints from customers by as much as 50%
+- Organizations are also advised to pay more attention and device adequate and innovative solutions to specific products related to debt collection, credit reporting and repair, and personal consumer reports. As seen from the report, a large percentage of issues reported were related to these products.
 
 
 
