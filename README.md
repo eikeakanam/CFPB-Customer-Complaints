@@ -55,3 +55,6 @@ A pictorial overview of both report pages is displayed below:
 |----------|--------------|
 |![CFPBAggr](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/f8854285-3fd4-477f-9b06-e25f029479bd)|![CFPBRate](https://github.com/eikeakanam/CFPB-Customer-Complaints/assets/75729930/68724b20-548c-4215-a8ba-a4e42bdd1e3b)|
 
+### Key Metrics
+
+There following are key metrics obtained from the dataset:
